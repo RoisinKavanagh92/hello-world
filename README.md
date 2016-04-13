@@ -16,3 +16,19 @@ _This text will be italic_
 __This text will be bold__
 
 **This text will be bold**
+
+* item 1
+* item 2
+* item 3
+ * item 4
+ 
+1. item 1
+2. item 2
+ * item 3a
+ * item 3b
+ 
+[visit google!] (www.google.ie)
+
+
+![A representation of Octdrey Catburn](http://octodex.github.com/images/octdrey-catburn.jpg)
+
